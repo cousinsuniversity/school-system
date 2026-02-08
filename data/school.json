@@ -1,0 +1,20 @@
+{
+  "students": [],
+  "enrollments": [],
+  "grades": {},
+  "settings": {
+    "schoolName": "Cousins University",
+    "gradeLevels": {
+      "Junior High School": ["Grade 7", "Grade 8", "Grade 9", "Grade 10"],
+      "Senior High School": ["Grade 11", "Grade 12"],
+      "College": ["1st Year", "2nd Year", "3rd Year", "4th Year"]
+    },
+    "requiredDocuments": [
+      "Birth Certificate",
+      "Form 138 (Report Card)",
+      "Good Moral Certificate",
+      "2x2 ID Pictures",
+      "Medical Certificate"
+    ]
+  }
+}
